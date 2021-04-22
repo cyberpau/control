@@ -1,4 +1,4 @@
-# control
+# puppet control
 
 Pull update and deploy:
 `r10k deploy environment -p`
